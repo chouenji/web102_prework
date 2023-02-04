@@ -1,8 +1,8 @@
-# WEB102 Prework - _Sea Monster CrowdFunding_
+# WEB102 Prework - Top Gamers
 
 Submitted by: **Kevin do Canto**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Top Gamers is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **5** hours spent in total
 
@@ -10,15 +10,14 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x ] The introduction section explains the background of the company and how many games remain unfunded.
-- [ x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-- [ x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-- [ x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+- [x] The introduction section explains the background of the company and how many games remain unfunded.
+- [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+- [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+- [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-- [ x] List anything else that you can get done to improve the app functionality!
-  Website could be more responsive
+- [x] Light/Dark theme added
 
 ## Video Walkthrough
 
@@ -36,7 +35,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2023] [Kevin do Canto]
+    Copyright 2023 Kevin do Canto
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
